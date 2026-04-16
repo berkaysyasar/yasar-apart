@@ -1,4 +1,26 @@
 {
-  "rooms": [],
+  "rooms": [
+    {
+      "id": 1776369738393,
+      "path": "images/rooms/fv9j3tawll1jtiwayheo_1776369738393.png",
+      "title": "fv9j3tawll1jtiwayheo",
+      "category": "rooms",
+      "date": "2026-04-16"
+    },
+    {
+      "id": 1776369739334,
+      "path": "images/rooms/unnamed__1__1776369739333.webp",
+      "title": "unnamed (1)",
+      "category": "rooms",
+      "date": "2026-04-16"
+    },
+    {
+      "id": 1776369740323,
+      "path": "images/rooms/unnamed_1776369740321.webp",
+      "title": "unnamed",
+      "category": "rooms",
+      "date": "2026-04-16"
+    }
+  ],
   "gallery": []
 }
